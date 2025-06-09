@@ -1,0 +1,7 @@
+Drafting questions for:
+StudyTime - "how much time do you spend studying per week?" 
+            "What time would you start studying?"
+            
+
+LearningStyle - "How do you like to study?"
+        eg. Visual, 
