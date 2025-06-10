@@ -4,4 +4,18 @@ StudyTime - "how much time do you spend studying per week?"
             
 
 LearningStyle - "How do you like to study?"
-        eg. Visual, 
+        eg. Divergers, Assimilators Convergers, Accommodators
+        Divergers - concrete peception, reflextive processing 
+        Assimilators - abstract perception, reflective processing 
+        Convergers - abstract processing, active processing
+        Accommodators - concrete peception, active processing
+
+StressLevels - "How many tests are you studying for ?"
+                "When is your next test?"
+
+Goals - "
+
+
+DataScheme - Define tables (Student_profile, Session_logs, FlashCards, TimeStudied) 
+
+UI format 
