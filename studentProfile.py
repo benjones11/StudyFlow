@@ -28,3 +28,4 @@ def create_new_profile():
         "averageSessionMinutes": average_Session_Minutes, 
     }
     return profile
+    print("profile created successfully.")
